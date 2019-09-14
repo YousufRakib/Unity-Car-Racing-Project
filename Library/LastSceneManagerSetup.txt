@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Models/Versons/RachingProject V.6.unity
+  isLoaded: 0
+  isActive: 0
